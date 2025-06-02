@@ -1,6 +1,12 @@
 # Aventura-Pambasitos
 
-Fecha:  
-Lugar:  
+Fecha:  02/06/2025
+Lugar:  UCIC
+
 Participantes:  
-Resumen de la aventura:
+Diana González Agustín
+Monserrat del Cristo Sanchez
+Nadia Valeria Calvario Galindo
+Paula Valeria Herrera Sanherman
+
+Resumen de la aventura: Repositorio 
